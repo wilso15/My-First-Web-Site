@@ -1,0 +1,6 @@
+table {
+	text-align: right;
+    border-style: double;
+	border-color: green;
+	padding: 0 10px 0 10px;
+}

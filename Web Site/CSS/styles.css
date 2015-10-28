@@ -1,0 +1,12 @@
+p {
+	font-family: sans-serif;
+	color: green;
+}
+#awesomeText{font-family: 'Times New Roman', Georgia, Serif;}
+.soft{color: green;}
+.center{text-align: center;}
+.container{margin: 0 auto;}
+
+body {
+	background-color: #E8E8E8
+}
